@@ -161,7 +161,7 @@ class AIPlayer extends Player
 	
 }
 
-public class Porject_1 {
+public class Project {
 
 	public static void main(String[] args) {
 		TicTacToe t=new TicTacToe();
